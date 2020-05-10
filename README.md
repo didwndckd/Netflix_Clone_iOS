@@ -118,9 +118,6 @@ Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
 
   <img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/slack.png"></img> 
 
-- Slack: GitHub과의 연동을 통해 issue, pull request등의 실시간 알림
-
-  <img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/slack.png"></img> 
 
 
 
