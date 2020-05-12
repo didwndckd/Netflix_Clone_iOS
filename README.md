@@ -11,7 +11,7 @@ Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
 ## Description
 
 - 개발 기간: 2020.03.20 ~ 2020.04.29 (약 6주)
-- 참여 인원: iOS 4명, Backend 2명   [Organization](https://github.com/FC-NETFLEX)
+- 참여 인원: iOS 4명, Backend 2명   [Organization⬅️](https://github.com/FC-NETFLEX)
 - 사용 기술
   - Language: Swift
   - FrameWork: UIKit, AVFoundation
@@ -71,7 +71,7 @@ Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
   - 저장 가능한 콘텐츠 찾아보기 화면 구현
     - 콘텐츠 데이터 요청으로 응답받은 데이터 `Codable`을 이용한 파싱
 - 트러블 슈팅
-  - 커스텀 삭제 버튼을 구현하기 위해 Cell에 등록한 `UIPanGestureRecognizer` 가 `UITableView` 가 스크롤 되어야 하는 상황 에서도 동작해서 스크롤이 되지 않는 문제
+  - 커스텀 삭제 버튼을 구현하기 위해 Cell에 등록한 `UIPanGestureRecognizer` 가 `UITableView` 가 스크롤 되어야 하는 상황에서도 동작해서 스크롤이 되지 않는 문제
     - `UITableViewCell`은 기본적으로 `UIGestureRecognizerDelegate` 를 체택하고 있는데 그중 `gestureRecognizerShouldBegin` 함수 에서 `UIPanGestureRecognizer` 의 translation의 x값과 y값을 비교하여 적절하게 gesture를 분배하여 해결 
   - 다운로드가 완료된 시점에 `FileManager` class를 이용해 디바이스에 영상, 이미지 파일을 저장하고 해당 URL을 저장 하는데 가끔 영상, 이미지의 경로를 찾지 못하는 문제
     - `FileManager` 의 경로를 확인해본 결과` .../Application/<app id>/Documents` 경로로 저장을 하는데 `<app id>` 가 계속해서 바뀌는 것이 문제
@@ -106,11 +106,11 @@ Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
 
 - GitHub
 
-  - Organization에 repository를 만들고 팀원들은 각자 Fork한 repository에 작업 후 pull request를 보내는 방식으로 작업
+  - [Organization](https://github.com/FC-NETFLEX)에 [repository](https://github.com/FC-NETFLEX/Netflix_Clone_iOS)를 만들고 팀원들은 각자 Fork한 repository에 작업 후 pull request를 보내는 방식으로 작업
 
     <img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/organization.png"></img>
 
-  - project board 를 통한 일정 관리
+  - [project board](https://github.com/FC-NETFLEX/Netflix_Clone_iOS/projects/1) 를 통한 일정 관리
 
     <img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/projectboard.png"></img>
 
