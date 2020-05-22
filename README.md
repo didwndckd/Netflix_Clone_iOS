@@ -10,12 +10,18 @@ Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
 
 ## Description
 
+<img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/assets/Netflix_Clone_synthesize.png"></img>
+
 - 개발 기간: 2020.03.20 ~ 2020.04.29 (약 6주)
+
 - 참여 인원: iOS 4명, Backend 2명   [Organization⬅️](https://github.com/FC-NETFLEX)
+
 - 사용 기술
+  
   - Language: Swift
   - FrameWork: UIKit, AVFoundation
   - Library: SnapKit, KingFisher
+  
 - 담당 구현 파트
   - 영상 재생 기능 구현
   
@@ -23,17 +29,13 @@ Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
   
   - 로그인, 회원가입 기능 구현
   
-  - 서버에 데이터 요청하는 작업을 `APIManager` struct로 모듈화
+  - 서버에 데이터 요청하는 작업을 `APIManager` struct로 모듈화하여 팀원들에게 제공
   
-  - 다양한 기기에 대응하기 위해 extension을 통한 함수를 작성해 팀원들 에게 제공
+  - 다양한 기기에 대응하기 위해 extension을 통한 함수를 작성해 팀원들에게 제공
     - UIFoant: iPhone 11pro를 기준으로 height의 비율 계산을 통해 적절한 폰트를 반환.
     - CGFloat: iPhone 11pro를 기준으로 height 또는 width의 비율 계산을 통해 적절한 CGFloat 수치를 반환.
     
     
-
-
-
-
 
 ## Implementation
 
@@ -108,11 +110,11 @@ Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
 
 - GitHub
 
-  - [Organization](https://github.com/FC-NETFLEX)에 [repository](https://github.com/FC-NETFLEX/Netflix_Clone_iOS)를 만들고 팀원들은 각자 Fork한 repository에 작업 후 pull request를 보내는 방식으로 작업
+  - [Organization](https://github.com/FC-NETFLEX)에 [Repository](https://github.com/FC-NETFLEX/Netflix_Clone_iOS)를 만들고 팀원들은 각자 Fork한 repository에 작업 후 pull request를 보내는 방식으로 작업
 
     <img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/organization.png"></img>
 
-  - [project board](https://github.com/FC-NETFLEX/Netflix_Clone_iOS/projects/1) 를 통한 일정 관리
+  - [Project board](https://github.com/FC-NETFLEX/Netflix_Clone_iOS/projects/1) 를 통한 일정 관리
 
     <img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/projectboard.png"></img>
 
