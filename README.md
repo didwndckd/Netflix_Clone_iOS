@@ -10,8 +10,6 @@ Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
 
 ## Description
 
-<img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/Netflix_Clone_synthesize.png"></img>
-
 - 개발 기간: 2020.03.20 ~ 2020.04.29 (약 6주)
 
 - 참여 인원: iOS 4명, Backend 2명   [Organization⬅️](https://github.com/FC-NETFLEX)
@@ -36,6 +34,10 @@ Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
     - CGFloat: iPhone 11pro를 기준으로 height 또는 width의 비율 계산을 통해 적절한 CGFloat 수치를 반환.
     
     
+
+## Screenshot
+
+<img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/Netflix_Clone_synthesize.png"></img>
 
 ## Implementation
 
