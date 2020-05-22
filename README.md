@@ -35,7 +35,7 @@ Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
     
     
 
-## Screenshot
+## View
 
 <img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/Netflix_Clone_synthesize.png"></img>
 
