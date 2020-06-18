@@ -30,7 +30,7 @@ Backend팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
   - 서버에 데이터 요청하는 작업을 `APIManager` struct로 모듈화하여 팀원들에게 제공
   
   - 다양한 기기에 대응하기 위해 extension을 통한 함수를 작성해 팀원들에게 제공
-    - UIFoant: iPhone 11pro를 기준으로 height의 비율 계산을 통해 적절한 폰트를 반환.
+    - UIFont: iPhone 11pro를 기준으로 height의 비율 계산을 통해 적절한 폰트를 반환.
     - CGFloat: iPhone 11pro를 기준으로 height 또는 width의 비율 계산을 통해 적절한 CGFloat 수치를 반환.
     
     
