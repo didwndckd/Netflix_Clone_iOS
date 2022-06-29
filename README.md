@@ -37,13 +37,13 @@ Backend 팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
 
 ## Views
 
-<img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/Netflix_Clone_synthesize.png"></img>
+<img src = "assets/Netflix_Clone_synthesize.png"></img>
 
 ## Implementation
 
 ### 영상 재생 
 
-<img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/VideoContrtoller.gif"></img>
+<img src = "assets/VideoContrtoller.gif"></img>
 
 - 구현 내용
 
@@ -66,7 +66,7 @@ Backend 팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
 
 ### 콘텐츠 저장
 
-<img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/SaveContent.gif"></img>
+<img src = "assets/SaveContent.gif"></img>
 
 - 구현 내용
   - 서버에 있는 영상을 다운로드, 디바이스에 저장
@@ -86,7 +86,7 @@ Backend 팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
 
 ### 로그인, 회원가입
 
-<img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/Login.gif"></img>
+<img src = "assets/Login.gif"></img>
 
 - 구현 내용
   - 회원 가입 시 이메일 정규 표현식, 비밀번호 정규 표현식을 사용
@@ -99,11 +99,11 @@ Backend 팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
 
 - 플로우 차트 (AdobeXD) : UI 구성과 앱의 흐름을 파악함
 
-  <img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/FlowChart.png"></img>
+  <img src = "assets/FlowChart.png"></img>
 
 - 명세서 작성 (Keynote): 앱의 상세 기능과 구조를 파악함
 
-  <img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/blueprint.gif"></img>
+  <img src = "assets/blueprint.gif"></img>
 
 
 
@@ -113,15 +113,15 @@ Backend 팀과의 협업으로 기존 Netflix 앱 서비스를 기반으로 같�
 
   - [Organization](https://github.com/FC-NETFLEX)에 [Repository](https://github.com/FC-NETFLEX/Netflix_Clone_iOS)를 만들고 팀원들은 각자 Fork 한 repository에 작업 후 pull request를 보내는 방식으로 작업
 
-    <img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/organization.png"></img>
+    <img src = "assets/organization.png"></img>
 
   - [Project board](https://github.com/FC-NETFLEX/Netflix_Clone_iOS/projects/1)를 통한 일정 관리
 
-    <img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/projectboard.png"></img>
+    <img src = "assets/projectboard.png"></img>
 
 - Slack: GitHub 과의 연동을 통해 issue, pull request 등의 실시간 알림
 
-  <img src = "https://github.com/JoongChangYang/Netflix_Clone_iOS/blob/master/assets/slack.png"></img> 
+  <img src = "assets/slack.png"></img> 
 
 
 
